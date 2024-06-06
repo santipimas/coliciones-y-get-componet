@@ -1,0 +1,2 @@
+# coliciones-y-get-componet
+ 
